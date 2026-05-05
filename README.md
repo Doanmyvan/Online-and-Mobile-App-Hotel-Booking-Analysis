@@ -29,7 +29,8 @@ In Q1 2024, a total of 500 bookings were recorded via online and mobile channels
 Durring Q1 2024, 6,466 promotions were applied to 86% of total bookings, with an average of 23 promotions per booking.
 
 - The majority of discounted bookings came from the website (35%, 2,320 promotions), followed by OTAs (33%, 2,170), and the mobile app (32%, 1,975).
-- 
+- Promotion adoption declined during month transitions, with a sharp drop in the final week of March (83). Usage typically increased from the second week of each month, peaking in week 4 for January (500) and February (490), while March peaked earlier in week 2 (630)—the highest in Q1 2024. Overall, March recorded the highest usage (2,470), followed by February (2,120) and January (1,875)
+- There is a strong correlation between promotion adoption, booking volume, and OTB revenue, confirming the direct impact of promotional strategies on customer bookings and overall hotel revenue.
 ### 👥 Customer Insights:
 <img width="1704" height="612" alt="Screenshot 2026-05-04 150216" src="https://github.com/user-attachments/assets/ea822774-8445-4ce9-97b1-29dfe9ca3594" />
 
