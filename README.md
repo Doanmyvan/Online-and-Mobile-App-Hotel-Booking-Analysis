@@ -17,7 +17,12 @@ In Q1 2024, a total of 500 bookings were recorded via online and mobile channels
 - In generar, there was minimal variation in booking volume & OTB revenue across the channels.
   - Website was the channel contributed most booking with 35% followed by third-party OTA (33%))  and mobile application contiuted the least booking with 32%
   - At the same time, booking from website channel contributed 34% of total OTB revenue, followed by booking from third-party OTA (33%)and Mobile App (32%)
-- 
+- In term of booking cancellation, Website also had the highest cancellation rate with 36%, then was third-party OTA with 34%, finally was Mobile App was only 30%.
+- Regarding week-over-week booking:
+  - In general, all three channels recorded high booking volumes in the second week of March. The mobile app accounted for 3.2%, while both third-party OTAs and the website peaked at 3.6% that contributed the highest volume (10.4%) to total booking. Additionally, the mobile app later reached its own peak at 3.8%, significantly outperforming the website (2.0%) and OTAs (1.8%)
+  -  Booking volume across all three channels was lowest in the sixth week of March, remaining below 1% and fluctuating between 0.2% and 0.6%. The first week of March recorded the second-lowest volume, ranging from 0.6% to 1.4% across channels.
+  - In the third week of March and the fourth week of February, distinct booking trends were observed across channels, with the website showing sharp increases (+0.6% and +1%), while the mobile app and OTAs declined slightly (ranging from 0.8% to 1.2%) compared to the previous week. 
+- In term Day of Week, most bookings from Mobile App & third-party OTA were booked on mid-week that contributed 18% of total booking of each channel while most booking volume from website channel were made on weekend (friday) with 23% and also mid-week (wednesday) with 20% of total booking on this channel. 
 ### 🏷️ Booking Performance by Discount and Promotion:
 <img width="1726" height="624" alt="Screenshot 2026-05-04 144519" src="https://github.com/user-attachments/assets/df7f372f-bce5-4d3c-b68f-15438e9745c1" />
 
