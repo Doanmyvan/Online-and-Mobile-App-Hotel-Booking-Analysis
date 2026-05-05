@@ -48,5 +48,20 @@ A total of 483 customers booked through Marriott International’s online and mo
 - **Cancellation Behavior**: Non-member customers had highest cancellation rate with 20%, followed by Ambassador and Platinum (18% each), then Titanum and Gold (a5% each), Silver members had lowest rate with 13%.
 - **Booking Amount**: Titanium ($41,537), Silver ($39,336), and Platinum ($38,103) members are the top revenue contributors, accounting for the largest share of the $209,435 total (cancelled bookings was excluded). They are followed by Gold ($33,814) and Ambassador ($32,142), while non-members generate the lowest revenue at $24,503.
 ### ⚡ Highlight Insight:
+**Key Strenght**
+- Website, OTAs, and Mobile App contribute almost equally
+- Promotions are highly effective. **The more adopted promotions the more booking were made the higher revenue were generated**
+- Titanium, Platinum, Silver members generated the largest revenue share.
+- **Total adopted promotions** through **direct channels** (Mobile App and Website) was significantly **higher** than through **indirect channels** (third-party OTAs), highlighting the **effectiveness of exclusive promotions and discounts for Marriott Bonvoy members**.
+**Booking Trends**
+- Booking demand is lowest at the beginning and end of each month, while peaking mid-month across all channels align with the Promotion usage trend. 
+- Booking behavior differs by channel:
+  - Website peaks on weekends (especially Friday)
+  - Mobile App & OTAs peak mid-week
+**Areas to Improve**
+- **High cancellation Rate** (48%) led by Website Channel
+- **Over-reliance on promotions** (86%) may reduce margin
+- **Non-members** had lowest revenue contribution, highest cancellation rate and shortest stays that may **negatively impact to total revenue**.
+
 ### 💡 Strategic Recommendations:
 
