@@ -14,7 +14,7 @@ This project analyzes hotel booking data from online and mobile platforms to unc
 
 In Q1 2024, a total of 500 bookings were recorded via online and mobile channels, with an average booking value of $801, generating $400,430 in total OTB revenue including cancelled booking which account 48% of total booking.
 
-- In generar, there was minimal variation in booking volume & OTB revenue across the channels.
+- In general, there was minimal variation in booking volume & OTB revenue across the channels.
   - Website was the channel contributed most booking with 35% followed by third-party OTA (33%))  and mobile application contiuted the least booking with 32%
   - At the same time, booking from website channel contributed 34% of total OTB revenue, followed by booking from OTAs (33%)and Mobile App (32%)
 - In term of booking cancellation, Website also had the highest cancellation rate with 36%, then was OTAs with 34%, finally was Mobile App was only 30%.
@@ -32,8 +32,21 @@ Durring Q1 2024, 6,466 promotions were applied to 86% of total bookings, with an
 - Promotion adoption declined during month transitions, with a sharp drop in the final week of March (83). Usage typically increased from the second week of each month, peaking in week 4 for January (500) and February (490), while March peaked earlier in week 2 (630)—the highest in Q1 2024. Overall, March recorded the highest usage (2,470), followed by February (2,120) and January (1,875)
 - There is a strong correlation between promotion adoption, booking volume, and OTB revenue, confirming the direct impact of promotional strategies on customer bookings and overall hotel revenue.
 ### 👥 Customer Insights:
-<img width="1704" height="612" alt="Screenshot 2026-05-04 150216" src="https://github.com/user-attachments/assets/ea822774-8445-4ce9-97b1-29dfe9ca3594" />
+<img width="1704" height="609" alt="Screenshot 2026-05-05 213148" src="https://github.com/user-attachments/assets/7236de6d-8078-42e5-9abe-1db51346a4cd" />
 
+A total of 483 customers booked through Marriott International’s online and mobile channels in Q1 2024, with Ambassador and Titanium segments jointly representing the largest share (18% each), followed by Platinum (17%), Gold and Non-members (16% each), while Silver members contributed the lowest share at 15%
+
+- **Length of Stay**: Gold members had the longest average length of stay (5.9 nights per booking), followed by Ambassador (5.8), Silver (5.7), Platinum (5.5), and Titanium (5.4), while non-members had the shortest stay at 5.1 nights.
+- **Room Type**:
+  - **High-Tier**: Ammbassador members had highest preference for Suites rooms (23%), while Titanium members dominate the Standard (21%) and Presidential Suite (20%) rooms.
+  - **Mid-Tier**:this group had the strongest preference for Deluxe rooms with Platinum member (21%) and Gold members (17%).
+  - **Non-Member and Silver**: Silver member most preferred Presidential Suite rooms (18%) while Non-Members show a high preference for both Suites (19%) and Deluxe (18%) rooms .
+- **Booking Channel**:
+  - **High-Tier**: Ammbassador and Titanium had Balanced Multichannel Use (17% - ~18% each)
+  - **Mid-Tier**:Platinum (20%) and Gold (19%) members show the strongest preference for the Website channel
+  - **Non-Member and Silver**: Non-Members (20%) and Silver members (18%) are the most likely to book through Third-Party OTAs
+- **Cancellation Behavior**: Non-member customers had highest cancellation rate with 20%, followed by Ambassador and Platinum (18% each), then Titanum and Gold (a5% each), Silver members had lowest rate with 13%.
+- Titanium ($41,537), Silver ($39,336), and Platinum ($38,103) members are the top revenue contributors, accounting for the largest share of the $209,435 total (cancelled bookings was excluded). They are followed by Gold ($33,814) and Ambassador ($32,142), while non-members generate the lowest revenue at $24,503.
 ### ⚡ Highlight Insight:
 ### 💡 Strategic Recommendations:
 
