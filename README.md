@@ -52,6 +52,7 @@ A total of 483 customers booked through Marriott International’s online and mo
 - Promotions are highly effective. **The more adopted promotions the more booking were made the higher revenue were generated**
 - Titanium, Platinum, Silver members generated the largest revenue share.
 - **Total adopted promotions** through **direct channels** (Mobile App and Website) was significantly **higher** than through **indirect channels** (third-party OTAs), highlighting the **effectiveness of exclusive promotions and discounts for Marriott Bonvoy members**.
+
 **Booking Trends**
 - Booking demand is lowest at the beginning and end of each month, while peaking mid-month across all channels align with the Promotion usage trend. 
 - Booking behavior differs by channel:
