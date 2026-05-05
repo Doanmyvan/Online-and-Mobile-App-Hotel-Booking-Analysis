@@ -65,7 +65,7 @@ A total of 483 customers booked through Marriott International’s online and mo
 
 ### 💡 Strategic Recommendations:
 - **Drive direct bookings** to reduce high-commission cost for third-party OTAs:
-  - Continue driving direct bookings by ***offering tailored promotions*** for each loyalty tier but **shifting from heavy discounting to value-added offers** (e.g., bundles, perks) to protect revenue
+  - Continue driving direct bookings by **offering tailored promotions** for each loyalty tier but **shifting from heavy discounting to value-added offers** (e.g., bundles, perks) to protect revenue
   - Use **Mobile App push notifications** for exclusive Marriott Bonvoy deals to shift bookings from OTAs
 - Launch **stricter cancellation policy** (eg. No-refund) especially on website channel but **paired with small incentives** (eg. free high-speed Wi-Fi, free room amenities, etc.) to **control the cacellation** and **retain customers** at the same time
 - **Limit deep discounts to low-demand periods** (start & end of month) to protect ADR during peak demand.
