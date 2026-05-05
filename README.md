@@ -16,16 +16,20 @@ In Q1 2024, a total of 500 bookings were recorded via online and mobile channels
 
 - In generar, there was minimal variation in booking volume & OTB revenue across the channels.
   - Website was the channel contributed most booking with 35% followed by third-party OTA (33%))  and mobile application contiuted the least booking with 32%
-  - At the same time, booking from website channel contributed 34% of total OTB revenue, followed by booking from third-party OTA (33%)and Mobile App (32%)
-- In term of booking cancellation, Website also had the highest cancellation rate with 36%, then was third-party OTA with 34%, finally was Mobile App was only 30%.
+  - At the same time, booking from website channel contributed 34% of total OTB revenue, followed by booking from OTAs (33%)and Mobile App (32%)
+- In term of booking cancellation, Website also had the highest cancellation rate with 36%, then was OTAs with 34%, finally was Mobile App was only 30%.
 - Regarding week-over-week booking:
   - Three channels recorded high booking volumes in the 2nd-week of March, with the mobile app at 3.2%, while both OTAs and the website peaked at 3.6% contributed the highest total booking share (10.4%). The mobile app later reached its peak at 3.8%, outperforming the website (2.0%) and OTAs (1.8%) in 5th-week of March
   -  Booking volume across channels was lowest in the 6th week of March, remained below 1% and fluctuated between 0.2% and 0.6%. The 1st-week of March recorded the second-lowest volume, ranging from 0.6% to 1.4% across channels.
   - In the 3rd-week of March and the fourth week of February, distinct booking trends were observed across channels, with the website showing sharp increases (+0.6% and +1%), while the mobile app and OTAs declined slightly (ranging from 0.8% to 1.2%) compared to the previous week. 
-- In term Day of Week, most bookings from Mobile App & third-party OTA were booked on mid-week that contributed 18% of total booking of each channel while most booking volume from website channel were made on weekend (friday) with 23% and also mid-week (wednesday) with 20% of total booking on this channel. 
+- In term Day of Week, most bookings from Mobile App & OTAs were booked on mid-week that contributed 18% of total booking of each channel while most booking volume from website channel were made on weekend (friday) with 23% and also mid-week (wednesday) with 20% of total booking on this channel. 
 ### 🏷️ Booking Performance by Discount and Promotion:
-<img width="1726" height="624" alt="Screenshot 2026-05-04 144519" src="https://github.com/user-attachments/assets/df7f372f-bce5-4d3c-b68f-15438e9745c1" />
+<img width="1725" height="623" alt="Screenshot 2026-05-05 171328" src="https://github.com/user-attachments/assets/f3f2abcc-66af-42ba-b5b5-22f9cb57a3a8" />
 
+Durring Q1 2024, 6,466 promotions were applied to 86% of total bookings, with an average of 23 promotions per booking.
+
+- The majority of discounted bookings came from the website (35%, 2,320 promotions), followed by OTAs (33%, 2,170), and the mobile app (32%, 1,975).
+- 
 ### 👥 Customer Insights:
 <img width="1704" height="612" alt="Screenshot 2026-05-04 150216" src="https://github.com/user-attachments/assets/ea822774-8445-4ce9-97b1-29dfe9ca3594" />
 
