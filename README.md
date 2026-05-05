@@ -18,11 +18,11 @@ In Q1 2024, a total of 500 bookings were recorded via online and mobile channels
   - Website was the channel contributed most booking with 35% followed by third-party OTA (33%))  and mobile application contiuted the least booking with 32%
   - At the same time, booking from website channel contributed 34% of total OTB revenue, followed by booking from OTAs (33%)and Mobile App (32%)
 - In term of booking cancellation, Website also had the highest cancellation rate with 36%, then was OTAs with 34%, finally was Mobile App was only 30%.
-- Regarding week-over-week booking:
+- **Week-over-week booking**:
   - Three channels recorded high booking volumes in the 2nd-week of March, with the mobile app at 3.2%, while both OTAs and the website peaked at 3.6% contributed the highest total booking share (10.4%). The mobile app later reached its peak at 3.8%, outperforming the website (2.0%) and OTAs (1.8%) in 5th-week of March
   -  Booking volume across channels was lowest in the 6th week of March, remained below 1% and fluctuated between 0.2% and 0.6%. The 1st-week of March recorded the second-lowest volume, ranging from 0.6% to 1.4% across channels.
   - In the 3rd-week of March and the fourth week of February, distinct booking trends were observed across channels, with the website showing sharp increases (+0.6% and +1%), while the mobile app and OTAs declined slightly (ranging from 0.8% to 1.2%) compared to the previous week. 
-- In term Day of Week, most bookings from Mobile App & OTAs were booked on mid-week that contributed 18% of total booking of each channel while most booking volume from website channel were made on weekend (friday) with 23% and also mid-week (wednesday) with 20% of total booking on this channel. 
+- **Day-of-Week Booking**: most bookings from Mobile App & OTAs were booked on mid-week that contributed 18% of total booking of each channel while most booking volume from website channel were made on weekend (friday) with 23% and also mid-week (wednesday) with 20% of total booking on this channel. 
 ### 🏷️ Booking Performance by Discount and Promotion:
 <img width="1725" height="623" alt="Screenshot 2026-05-05 171328" src="https://github.com/user-attachments/assets/f3f2abcc-66af-42ba-b5b5-22f9cb57a3a8" />
 
@@ -46,7 +46,7 @@ A total of 483 customers booked through Marriott International’s online and mo
   - **Mid-Tier**:Platinum (20%) and Gold (19%) members show the strongest preference for the Website channel
   - **Non-Member and Silver**: Non-Members (20%) and Silver members (18%) are the most likely to book through Third-Party OTAs
 - **Cancellation Behavior**: Non-member customers had highest cancellation rate with 20%, followed by Ambassador and Platinum (18% each), then Titanum and Gold (a5% each), Silver members had lowest rate with 13%.
-- Titanium ($41,537), Silver ($39,336), and Platinum ($38,103) members are the top revenue contributors, accounting for the largest share of the $209,435 total (cancelled bookings was excluded). They are followed by Gold ($33,814) and Ambassador ($32,142), while non-members generate the lowest revenue at $24,503.
+- **Booking Amount**: Titanium ($41,537), Silver ($39,336), and Platinum ($38,103) members are the top revenue contributors, accounting for the largest share of the $209,435 total (cancelled bookings was excluded). They are followed by Gold ($33,814) and Ambassador ($32,142), while non-members generate the lowest revenue at $24,503.
 ### ⚡ Highlight Insight:
 ### 💡 Strategic Recommendations:
 
