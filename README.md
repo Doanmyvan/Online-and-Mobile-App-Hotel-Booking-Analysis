@@ -20,7 +20,7 @@ In Q1 2024, a total of 500 bookings were recorded via online and mobile channels
 - In term of booking cancellation, Website also had the highest cancellation rate with 36%, then was third-party OTA with 34%, finally was Mobile App was only 30%.
 - Regarding week-over-week booking:
   - Three channels recorded high booking volumes in the 2nd-week of March, with the mobile app at 3.2%, while both OTAs and the website peaked at 3.6% contributed the highest total booking share (10.4%). The mobile app later reached its peak at 3.8%, outperforming the website (2.0%) and OTAs (1.8%) in 5th-week of March
-  -  Booking volume across channels was lowest in the 6th week of March, remained below 1% and fluctuated between 0.2% and 0.6%. The first week of March recorded the second-lowest volume, ranging from 0.6% to 1.4% across channels.
+  -  Booking volume across channels was lowest in the 6th week of March, remained below 1% and fluctuated between 0.2% and 0.6%. The 1st-week of March recorded the second-lowest volume, ranging from 0.6% to 1.4% across channels.
   - In the 3rd-week of March and the fourth week of February, distinct booking trends were observed across channels, with the website showing sharp increases (+0.6% and +1%), while the mobile app and OTAs declined slightly (ranging from 0.8% to 1.2%) compared to the previous week. 
 - In term Day of Week, most bookings from Mobile App & third-party OTA were booked on mid-week that contributed 18% of total booking of each channel while most booking volume from website channel were made on weekend (friday) with 23% and also mid-week (wednesday) with 20% of total booking on this channel. 
 ### 🏷️ Booking Performance by Discount and Promotion:
