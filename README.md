@@ -51,7 +51,7 @@ A total of 483 customers booked through Marriott International’s online and mo
 - Website, OTAs, and Mobile App contribute almost equally
 - Promotions are highly effective. **The more adopted promotions the more booking were made the higher revenue were generated**
 - Titanium, Platinum, Silver members generated the largest revenue share.
-- **Total adopted promotions** through **direct channels** (Mobile App and Website) was significantly **higher** than through **indirect channels** (third-party OTAs), highlighting the **effectiveness of exclusive promotions and discounts for Marriott Bonvoy members**.
+- **Total adopted promotions** through **direct channels** (Mobile App and Website) was significantly **higher** than through **indirect channels** (third-party OTAs) and generated ~70% booking revenue, highlighting the **effectiveness of exclusive promotions and discounts for Marriott Bonvoy members** and **reducing cost of booking commissionfor third parties.**
 
 **Booking Trends**
 - Booking demand is lowest at the beginning and end of each month, while peaking mid-month across all channels align with the Promotion usage trend. 
@@ -65,7 +65,7 @@ A total of 483 customers booked through Marriott International’s online and mo
 
 ### 💡 Strategic Recommendations:
 - **Drive direct bookings** to reduce high-commission cost for third-party OTAs:
-  - Continue driving direct bookings by *offering tailored promotions* for each loyalty tier but **shifting from heavy discounting to value-added offers** (e.g., bundles, perks) to protect revenue
+  - Continue driving direct bookings by ***offering tailored promotions*** for each loyalty tier but **shifting from heavy discounting to value-added offers** (e.g., bundles, perks) to protect revenue
   - Use **Mobile App push notifications** for exclusive Marriott Bonvoy deals to shift bookings from OTAs
 - Launch **stricter cancellation policy** (eg. No-refund) especially on website channel but **paired with small incentives** (eg. free high-speed Wi-Fi, free room amenities, etc.) to **control the cacellation** and **retain customers** at the same time
 - **Limit deep discounts to low-demand periods** (start & end of month) to protect ADR during peak demand.
