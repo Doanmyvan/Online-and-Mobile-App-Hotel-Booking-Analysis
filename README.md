@@ -17,7 +17,7 @@ In Q1 2024, a total of 500 bookings were recorded via online and mobile channels
 - In general, there was minimal variation in booking volume & OTB revenue across the channels.
   - Website was the channel contributed most booking with 35% followed by third-party OTA (33%))  and mobile application contiuted the least booking with 32%
   - At the same time, booking from website channel contributed 34% of total OTB revenue, followed by booking from OTAs (33%)and Mobile App (32%)
-- In term of booking cancellation, Website also had the highest cancellation rate with 36%, then was OTAs with 34%, finally was Mobile App was only 30%.
+- **Booking cancellation**: Website had the highest cancellation rate with 36%, then was OTAs with 34%, finally was Mobile App was only 30%.
 - **Week-over-week booking**:
   - Three channels recorded high booking volumes in the 2nd-week of March, with the mobile app at 3.2%, while both OTAs and the website peaked at 3.6% contributed the highest total booking share (10.4%). The mobile app later reached its peak at 3.8%, outperforming the website (2.0%) and OTAs (1.8%) in 5th-week of March
   -  Booking volume across channels was lowest in the 6th week of March, remained below 1% and fluctuated between 0.2% and 0.6%. The 1st-week of March recorded the second-lowest volume, ranging from 0.6% to 1.4% across channels.
