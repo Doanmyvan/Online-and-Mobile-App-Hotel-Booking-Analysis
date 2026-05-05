@@ -3,7 +3,6 @@
 This project analyzes hotel booking data from online and mobile platforms to uncover customer behavior, booking trends, and revenue performance. It focuses on channel performance and promotions to support data-driven pricing and strategic decision-making.
 ## 📄 Case Study: 
 - **Property**: Marriot International
-- **Location**: Asia
 - **Period**: Q1 2024
 ## 🛠️ Tool & Data: 
 - Excel – for data modeling and visualization.
