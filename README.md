@@ -6,7 +6,7 @@ This project analyzes hotel booking data from online and mobile platforms to unc
 - **Period**: Q1 2024
 ## 🛠️ Tool & Data: 
 - Excel – for data modeling and visualization.
-- Dataset – captures booking behavior of customer at nternational Marriot hotel focus on online and mobile application in Q1 2024 (including Booking ID, Customer ID, Cancelation Status, Booking Amount, Loyalty Member, etc.),
+- Dataset – captures booking behavior of customer at International Marriot hotel focus on online and mobile application in Q1 2024 (including Booking ID, Customer ID, Cancelation Status, Booking Amount, Loyalty Member, etc.),
 ## 📊 Data Analysis & Strategic Insights:
 ### 🌐 Booking Performance by Booking Channel:
 <img width="1741" height="615" alt="Screenshot 2026-05-04 144411" src="https://github.com/user-attachments/assets/1c9ab756-ccdb-42e9-8894-5e0c5585cf4c" />
