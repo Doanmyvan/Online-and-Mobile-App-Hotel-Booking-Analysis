@@ -58,6 +58,7 @@ A total of 483 customers booked through Marriott International’s online and mo
 - Booking behavior differs by channel:
   - Website peaks on weekends (especially Friday)
   - Mobile App & OTAs peak mid-week
+  
 **Areas to Improve**
 - **High cancellation Rate** (48%) led by Website Channel
 - **Over-reliance on promotions** (86%) may reduce margin
